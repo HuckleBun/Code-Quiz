@@ -153,7 +153,3 @@ li {
 .hidden {
     display: none;
 }
-
-#quiz-page {
-    background-color: blue;
-}
